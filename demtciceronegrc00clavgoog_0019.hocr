@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./demtciceronegrc00clavgoog_0019.png"; bbox 0 0 2790 4770; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 267 4291 1192 4390">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 267 4291 1192 4390">
+     <span class='ocr_line' id='line_1_1' title="bbox 267 4291 1192 4390; baseline -0.006 -8"><span class='ocrx_word' id='word_1_1' title='bbox 267 4335 336 4382; x_wconf 72' lang='lat' dir='ltr'><strong>Paris.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 348 4359 374 4370; x_wconf 94' lang='lat'>-</span> <span class='ocrx_word' id='word_1_3' title='bbox 384 4291 531 4390; x_wconf 45' lang='lat' dir='ltr'><strong>lssprimerie</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 547 4335 574 4378; x_wconf 79' lang='grc' dir='ltr'>Α.</span> <span class='ocrx_word' id='word_1_5' title='bbox 586 4333 657 4379; x_wconf 66' lang='grc' dir='ltr'>ιαίιιό</span> <span class='ocrx_word' id='word_1_6' title='bbox 669 4337 692 4379; x_wconf 77' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_7' title='bbox 707 4335 728 4378; x_wconf 85' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_8' title='bbox 745 4333 848 4388; x_wconf 70' lang='lat' dir='ltr'>flavam,</span> <span class='ocrx_word' id='word_1_9' title='bbox 864 4346 907 4380; x_wconf 84' lang='lat' dir='ltr'>rue</span> <span class='ocrx_word' id='word_1_10' title='bbox 923 4334 965 4380; x_wconf 74' lang='lat' dir='ltr'>den</span> <span class='ocrx_word' id='word_1_11' title='bbox 979 4333 1148 4388; x_wconf 57' lang='lat' dir='ltr'>&amp;ints-peres,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1159 4337 1192 4378; x_wconf 72' lang='lat'>¹9.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1400 4770">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1400 4770">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1400 4770; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1400 4770; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

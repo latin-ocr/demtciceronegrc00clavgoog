@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./demtciceronegrc00clavgoog_0009.png"; bbox 0 0 2790 4770; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 200 4344 1125 4399">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 200 4344 1125 4399">
+     <span class='ocr_line' id='line_1_1' title="bbox 200 4344 1125 4399; baseline -0.004 -8"><span class='ocrx_word' id='word_1_1' title='bbox 200 4346 269 4391; x_wconf 78' lang='lat' dir='ltr'><strong>Paris.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 280 4368 307 4380; x_wconf 89' lang='lat'>-</span> <span class='ocrx_word' id='word_1_3' title='bbox 317 4344 464 4399; x_wconf 79' lang='lat' dir='ltr'>Imprimerie</span> <span class='ocrx_word' id='word_1_4' title='bbox 479 4346 507 4389; x_wconf 81' lang='grc' dir='ltr'>Δ.</span> <span class='ocrx_word' id='word_1_5' title='bbox 519 4344 590 4389; x_wconf 68' lang='lat' dir='ltr'>Laind</span> <span class='ocrx_word' id='word_1_6' title='bbox 602 4347 625 4389; x_wconf 77' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_7' title='bbox 640 4345 661 4389; x_wconf 83' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_8' title='bbox 678 4344 780 4398; x_wconf 76' lang='lat' dir='ltr'>flavard,</span> <span class='ocrx_word' id='word_1_9' title='bbox 796 4356 840 4390; x_wconf 85' lang='lat' dir='ltr'>rue</span> <span class='ocrx_word' id='word_1_10' title='bbox 856 4345 898 4391; x_wconf 71' lang='lat' dir='ltr'>(les</span> <span class='ocrx_word' id='word_1_11' title='bbox 912 4344 1080 4399; x_wconf 53' lang='lat' dir='ltr'>Sama-Feres.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1092 4348 1125 4389; x_wconf 76' lang='lat'>19.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1400 4770">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1400 4770">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1400 4770; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1400 4770; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
